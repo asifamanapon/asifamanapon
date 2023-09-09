@@ -4,9 +4,7 @@
 <h1> 👋, I'm Md. Asif Aman Apon</h1>
 <h3 align="center">A passionate frontend/backend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="!https://github.com/asifamanapon/asifamanapon/assets/108551255/763f40bf-2437-4963-9a9d-ad565c775d4e.gif
-
-">
+<img align="right" alt="coding" width="400" src="!https://github.com/asifamanapon/asifamanapon/assets/108551255/763f40bf-2437-4963-9a9d-ad565c775d4e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifamanapon&label=Profile%20views&color=0e75b6&style=flat" alt="asifamanapon" > </p>
 
