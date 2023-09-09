@@ -1,4 +1,4 @@
-![logo](https://github.com/asifamanapon/asifamanapon/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo](https://github.com/asifamanapon/asifamanapon/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Md. Asif Aman Apon</h1>
 <h3 align="center">A passionate frontend/backend developer from Bangladesh</h3>
