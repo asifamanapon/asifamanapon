@@ -9,6 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/aponasifaman" target="blank"><img src="https://img.shields.io/twitter/follow/aponasifaman?logo=twitter&style=for-the-badge" alt="aponasifaman" /></a> </p>
 
+👋 Hi there, I'm Md. Asif Aman Apon, a Fullstack Web Developer from Bangladesh 🇧🇩.
+
+🎓 I graduated from Northern University of Business & Technology with a degree in Computer Science & Engineering.
+
+🚀 With 2 years of experience, I specialize in crafting robust web applications using HTML, CSS, Bootstrap, Tailwind CSS, React, and Node.js. I'm passionate about creating seamless user experiences and building scalable solutions that meet modern web standards.
+
+🌟 Let's collaborate and innovate together!
+
+
+
+
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Python, Laravel, Mernstack, Js**
